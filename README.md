@@ -24,6 +24,7 @@ Case studies with selected code. The full source of these products is private.
 
 | Project | What it is | Code shown |
 |---|---|---|
+| [English Coach](https://github.com/ahrimmedia-beep/english-coach) | Spoken-English coach that runs on iPhone, Android, desktop and the web: daily plan, AI feedback on voice answers, speech metrics, FSRS phrase cards | Python, TypeScript |
 | [BrokerDesk](https://github.com/ahrimmedia-beep/brokerdesk) | AI sales assistant for real estate agencies: voice in the browser, web chat and WhatsApp, leads to the CRM | TypeScript |
 | [AI phone agents](https://github.com/ahrimmedia-beep/ai-phone-agents) | Voice agents that answer and make phone calls on Voximplant and the OpenAI Realtime API | JavaScript |
 | [AI voice website](https://github.com/ahrimmedia-beep/ahrim-ai-lab-site) | Company website with an AI voice assistant over WebRTC and a callback flow | TypeScript |
