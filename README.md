@@ -20,10 +20,11 @@ Full-stack developer. I build web and mobile apps, AI agents and automation, fro
 
 ### Products
 
-Case studies with selected code. The full source of these products is private.
+Case studies with selected code. The full source of most of these products is private.
 
 | Project | What it is | Code shown |
 |---|---|---|
+| [Support Co-pilot](https://github.com/ahrimmedia-beep/valetax-support-copilot) | Support-ticket co-pilot for a forex broker: classifies tickets, drafts replies grounded sentence by sentence in the help centre, routes risky cases to people; evals in 10 languages, voice intake, operator console | Python, full source |
 | [English Coach](https://github.com/ahrimmedia-beep/english-coach) | Spoken-English coach that runs on iPhone, Android, desktop and the web: daily plan, AI feedback on voice answers, speech metrics, FSRS phrase cards | Python, TypeScript |
 | [BrokerDesk](https://github.com/ahrimmedia-beep/brokerdesk) | AI sales assistant for real estate agencies: voice in the browser, web chat and WhatsApp, leads to the CRM | TypeScript |
 | [AI phone agents](https://github.com/ahrimmedia-beep/ai-phone-agents) | Voice agents that answer and make phone calls on Voximplant and the OpenAI Realtime API | JavaScript |
