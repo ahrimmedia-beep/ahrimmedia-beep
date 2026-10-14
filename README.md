@@ -24,6 +24,7 @@ Case studies with selected code. The full source of most of these products is pr
 
 | Project | What it is | Code shown |
 |---|---|---|
+| [Exchange Core](https://github.com/ahrimmedia-beep/exchange-core) | Core of a centralized crypto exchange: double-entry ledger, price-time matching with replay, EVM deposit watcher with reorg handling, withdrawals with approvals, REST and WebSocket API | TypeScript, full source |
 | [Support Co-pilot](https://github.com/ahrimmedia-beep/valetax-support-copilot) | Support-ticket co-pilot for a forex broker: classifies tickets, drafts replies grounded sentence by sentence in the help centre, routes risky cases to people; evals in 10 languages, voice intake, operator console | Python, full source |
 | [English Coach](https://github.com/ahrimmedia-beep/english-coach) | Spoken-English coach that runs on iPhone, Android, desktop and the web: daily plan, AI feedback on voice answers, speech metrics, FSRS phrase cards | Python, TypeScript |
 | [BrokerDesk](https://github.com/ahrimmedia-beep/brokerdesk) | AI sales assistant for real estate agencies: voice in the browser, web chat and WhatsApp, leads to the CRM | TypeScript |
