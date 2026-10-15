@@ -12,6 +12,7 @@ Full-stack developer. I build web and mobile apps, AI agents and automation, fro
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
@@ -45,6 +46,7 @@ Case studies with selected code. The full source of most of these products is pr
 
 | Project | What it is |
 |---|---|
+| [payments-service](https://github.com/ahrimmedia-beep/payments-service) | Async payment processing on FastAPI, PostgreSQL and RabbitMQ: transactional outbox, idempotency closed at the DB level, retry with backoff and a dead-letter queue, webhooks |
 | [clinical-case-lab](https://github.com/ahrimmedia-beep/clinical-case-lab) | FastAPI + PostgreSQL scoring API, Next.js player, LLM extraction pipeline with evals, deployed on Cloud Run |
 | [rag-system](https://github.com/ahrimmedia-beep/rag-system) | Agentic RAG service on FastAPI, LangChain and Qdrant, with citations and a retrieval eval |
 | [green-api-max-chat](https://github.com/ahrimmedia-beep/green-api-max-chat) | Web chat for the MAX messenger through GREEN-API: React 19, TypeScript, Vite |
